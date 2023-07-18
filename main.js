@@ -17,4 +17,4 @@ function countDown(time, step = 1) {
   const intervalId = setInterval(timer, delay);
 }
 //countDown(time, timeStep)
-countDown(15, 4);
+countDown(120, 1);
